@@ -201,8 +201,9 @@
 
 ## ✍️ 最近写的东西
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+\- 《皮特回忆之一 · 域》
+\- 《怪云》
+\- 《废弃代码备忘录》
 
 ---
 
@@ -240,7 +241,7 @@
 ## 📫 联系我
 
 - GitHub：`Keleoz-Cyber`
-- Blog：`https://keleoz.cn`
+- Blog：`keleoz.cn`，暂时停运中
 
 ---
 
