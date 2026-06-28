@@ -1,183 +1,164 @@
+<!-- Profile README for Keleoz-Cyber -->
+
 <div align="center">
 
 <img src="./assets/banner.svg" alt="Keleoz Cyber Banner" width="100%" />
 
-<h1>你好，我是 Keleoz 👋</h1>
+<h1>Hi, I'm Keleoz 👋</h1>
 
 <p>
-  <code>计算机本科生</code> ·
-  <code>C++</code> ·
-  <code>Flutter</code> ·
-  <code>Python</code> ·
-  <code>AI Agent</code> ·
-  <code>QGIS</code> ·
-  <code>Writing</code>
+  <b>Computer Science Undergraduate · AI Engineering Explorer · Builder of Practical Systems</b>
 </p>
 
 <p>
-  我喜欢把课堂里的知识做成真正能运行、能展示、能交付的项目。<br/>
-  也喜欢用代码、地图和文字，记录一点自己的世界。
+  <code>C++</code> ·
+  <code>Flutter</code> ·
+  <code>FastAPI</code> ·
+  <code>Python</code> ·
+  <code>PyTorch</code> ·
+  <code>QGIS</code> ·
+  <code>AI Agent Workflow</code>
+</p>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&center=true&vCenter=true&width=760&lines=Build+small+but+complete+systems.;Turn+coursework+into+runnable+projects.;AI+%C2%B7+Full-stack+%C2%B7+Maps+%C2%B7+Stories" alt="Typing SVG" />
+</p>
+
+<p>
+  <a href="https://github.com/Keleoz-Cyber?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Keleoz--Cyber-181717?style=for-the-badge&logo=github" alt="Repositories" />
+  </a>
+  <a href="https://github.com/Keleoz-Cyber/ds-ai-quiz">
+    <img src="https://img.shields.io/badge/Project-ds--ai--quiz-00599C?style=for-the-badge&logo=cplusplus" alt="ds-ai-quiz" />
+  </a>
+  <a href="https://github.com/Keleoz-Cyber/LessonSearch">
+    <img src="https://img.shields.io/badge/Project-LessonSearch-02569B?style=for-the-badge&logo=flutter" alt="LessonSearch" />
+  </a>
+</p>
+
+<p>
+  我喜欢把课堂知识、比赛想法和真实工作流，做成能运行、能展示、能交付的系统。<br/>
+  Code for tools, maps for narratives, words for the things that should not be compressed.
 </p>
 
 </div>
 
 ---
 
-## 🧭 关于我
+## 00 · About
 
-我是一名计算机相关专业的本科生，平时主要做一些偏实践型的项目。  
-相比单纯堆技术栈，我更关注一个项目背后的 **结构设计、数据流、用户体验和表达方式**。
+我是一名计算机相关专业本科生，正在把自己的能力从“会写代码”推进到“能设计系统”。
 
-目前比较关注这些方向：
+相比单纯堆技术栈，我更关注一个项目是否有清晰的结构、稳定的数据流、可解释的结果，以及真正能被人使用的交互体验。
 
-- 🧠 **数据结构与算法实践**：用 C++ 做课程设计、刷题系统、推荐逻辑和数据结构应用
-- 📱 **移动端应用开发**：使用 Flutter 开发考勤、查课、记录类工具
-- 🌾 **机器学习项目**：做过农业病害图像分类、模型微调、验证集评估与可视化
-- 🗺️ **专题地图设计**：使用 QGIS 做历史主题地图、路线表达和版面设计
-- 🛠️ **后端与部署**：使用 FastAPI、MySQL、Docker、Nginx 等工具搭建服务
-- ✍️ **文字创作**：写一些带有赛博悬疑、哲思科幻气质的短篇随笔
-- 🤖 **AI Agent 工作流**：探索 Claude Code、Cursor、OpenClaw 等 AI 辅助开发方式
+> Build with engineering discipline. Think with AI. Keep a little room for stories.
 
----
-
-## 🧩 正在构建的东西
-
-### 📚 数据结构智能刷题与错题推荐系统
-
-一个基于 **C++** 的控制台项目，主要面向数据结构课程设计。
-
-这个项目的重点不是堆前端、数据库或者复杂框架，而是通过一个完整系统展示数据结构与算法的实际应用。
-
-它包含：
-
-- 题库管理
-- 随机练习
-- 模拟考试
-- 错题本维护
-- 学习记录统计
-- 基于练习情况的题目推荐
-- CSV 文件持久化
-- 哈希表、堆、图遍历等数据结构逻辑
-
-> 对我来说，这个项目更像是一次把“课本知识”变成“可运行系统”的尝试。
+<table>
+  <tr>
+    <td width="50%">
+      <b>What I build</b>
+      <br/><br/>
+      · 课程知识落地成完整系统<br/>
+      · 移动端工具与后端服务<br/>
+      · 数据结构、推荐逻辑与自动化流程<br/>
+      · 机器学习训练、评估与可视化<br/>
+      · 专题地图、信息图与技术写作
+    </td>
+    <td width="50%">
+      <b>What I care about</b>
+      <br/><br/>
+      · 系统边界是否清楚<br/>
+      · 数据流是否可靠<br/>
+      · 用户体验是否顺手<br/>
+      · 模型结果是否可解释<br/>
+      · 项目表达是否有记忆点
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📱 考勤助手 App
+## 01 · Current Focus
 
-一个基于 **Flutter + FastAPI + MySQL** 的移动端应用项目。
-
-它的目标是把传统 Excel 查课、点名、记名流程，整理成一个更清晰的移动端工作流。
-
-目前设计方向包括：
-
-- 点名
-- 记名
-- 查课记录
-- 年级 / 专业 / 班级选择
-- 多班级横向切换
-- 已到、未到、请假、其他等状态标记
-- 周名单提交与审核
-- 超级管理员 / 管理员 / 成员权限划分
-- 服务端数据同步与统计汇总
-
-这个项目更偏真实场景应用，也让我接触到了移动端、后端、数据库和权限设计之间的配合。
+```text
+AI / LLM Engineering     RAG · Fine-tuning · Evaluation · AI Agent workflow
+Full-stack Tools         Flutter · FastAPI · MySQL · Docker · Nginx
+Algorithmic Systems      C++ · Data Structures · Recommendation logic · CSV persistence
+Geo & Visual Narrative   QGIS · Remote Sensing · Thematic map design
+Writing                  Cyber mystery · Soft sci-fi · Personal technical essays
+```
 
 ---
 
-### 🌾 农作物病害识别项目
+## 02 · Featured Work
 
-一个图像分类方向的机器学习项目，主要围绕农业病害识别展开。
-
-项目中涉及：
-
-- 数据集划分与清洗
-- PyTorch 模型训练
-- ResNet 系列模型微调
-- 验证集准确率评估
-- Macro-F1 等指标分析
-- 混淆矩阵与错误样本可视化
-
-这个项目让我更直观地理解了：模型训练不是单纯“跑起来”，还需要关注数据质量、指标选择和结果解释。
+| Project | What it is | Stack / Keywords |
+| --- | --- | --- |
+| [ds-ai-quiz](https://github.com/Keleoz-Cyber/ds-ai-quiz) | 数据结构智能刷题与错题推荐系统，把哈希表、堆、图遍历等知识组织成完整控制台项目 | `C++` `CSV` `Heap` `Hash Map` `Graph` |
+| [LessonSearch](https://github.com/Keleoz-Cyber/LessonSearch) | 面向查课、点名、记名、周名单汇总与审核的移动端工具 | `Flutter` `FastAPI` `MySQL` `Docker` `Nginx` |
+| [Mathematical_Modeling](https://github.com/Keleoz-Cyber/Mathematical_Modeling) | 数学建模训练、论文与算法流程沉淀 | `Python` `Optimization` `Modeling` `Documentation` |
+| [HAUT_Survivor](https://github.com/Keleoz-Cyber/HAUT_Survivor) | Java 课程与 Web 实践项目，记录从后端逻辑到页面交互的训练过程 | `Java` `Web` `SQL` |
+| [dormscreen](https://github.com/Keleoz-Cyber/dormscreen) | 面向宿舍场景的小工具尝试，偏硬件/屏幕展示方向 | `Tooling` `UI` `Experiment` |
 
 ---
 
-### 🗺️ 长征主题专题地图
-
-我也在使用 **QGIS** 做专题地图设计，尝试把历史主题、地理空间表达和视觉设计结合起来。
-
-做过的主题方向：
-
-> 纪念长征三大主力会师 90 周年专题地图
-
-关注内容包括：
-
-- 长征路线表达
-- 会师地点突出
-- 历史节点标注
-- DEM / 山体阴影底图
-- 地图符号系统设计
-- 复古宣传画风格与现代信息图结合
-
-我觉得地图不只是地理信息展示，也是一种叙事方式。
-
----
-
-## 🛠️ 技术栈
+## 03 · Engineering Map
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center"><b>语言</b></td>
+    <td align="center"><b>Languages</b></td>
     <td>
       <code>C++</code>
-      <code>Dart</code>
       <code>Python</code>
       <code>Java</code>
+      <code>Dart</code>
       <code>C#</code>
+      <code>SQL</code>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>移动端</b></td>
+    <td align="center"><b>App / Backend</b></td>
     <td>
       <code>Flutter</code>
-      <code>Android Studio</code>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>后端</b></td>
-    <td>
       <code>FastAPI</code>
       <code>MySQL</code>
       <code>Nginx</code>
       <code>Docker</code>
+      <code>Linux</code>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>机器学习</b></td>
+    <td align="center"><b>AI / ML</b></td>
     <td>
       <code>PyTorch</code>
       <code>ResNet</code>
       <code>Image Classification</code>
+      <code>Fine-tuning</code>
+      <code>RAG</code>
+      <code>Evaluation</code>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>工具</b></td>
+    <td align="center"><b>Geo / Visual</b></td>
     <td>
-      <code>VS Code</code>
-      <code>Visual Studio</code>
-      <code>JetBrains</code>
       <code>QGIS</code>
-      <code>Git</code>
+      <code>Remote Sensing</code>
+      <code>ENVI</code>
+      <code>Thematic Map</code>
+      <code>Information Design</code>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>AI 工作流</b></td>
+    <td align="center"><b>Workflow</b></td>
     <td>
+      <code>Git</code>
+      <code>GitHub</code>
+      <code>VS Code</code>
+      <code>JetBrains</code>
       <code>Claude Code</code>
       <code>Cursor</code>
-      <code>OpenClaw</code>
       <code>ChatGPT</code>
     </td>
   </tr>
@@ -187,27 +168,18 @@
 
 ---
 
-## 🚀 精选项目
+## 04 · GitHub Overview
 
-| 项目                                                     | 简介                                     | 技术                      |
-| -------------------------------------------------------- | ---------------------------------------- | ------------------------- |
-| [ds-ai-quiz](https://github.com/Keleoz-Cyber/ds-ai-quiz) | 数据结构智能刷题与错题推荐系统           | C++                       |
-| LessonSearch                                             | 面向查课、点名和周名单汇总的考勤助手 App | Flutter / FastAPI / MySQL |
-| 农作物病害识别                                           | 基于图像分类的机器学习项目               | Python / PyTorch          |
-| 长征专题地图                                             | 纪念长征三大主力会师 90 周年专题地图     | QGIS                      |
-| 个人博客与随笔                                           | 赛博悬疑、哲思科幻与个人文字记录         | Blog / Writing            |
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Keleoz-Cyber&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" alt="Keleoz GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keleoz-Cyber&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top Languages" />
 
-## ✍️ 最近写的东西
-
-\- 《皮特回忆之一 · 域》
-\- 《怪云》
-\- 《废弃代码备忘录》
+</div>
 
 ---
 
-## 🐍 贡献轨迹
+## 05 · Contribution Trace
 
 <div align="center">
 
@@ -221,27 +193,26 @@
 
 ---
 
-## 🌌 文字与创作
+## 06 · Writing & Maps
 
 除了写代码，我也写一些不太“工程化”的东西。
 
-我喜欢把 **技术意象、记忆、意识、系统、废弃代码、云、镜子和身份** 这些元素揉进故事里。  
-这些文字不一定标准，也不一定轻松，但它们是我理解世界的另一种方式。
+我喜欢把 **技术意象、记忆、意识、系统、废弃代码、云、镜子和身份** 这些元素放进故事里；也喜欢用地图把历史事件、空间关系和视觉秩序组织起来。
 
-写过的一些主题：
+Recent pieces:
 
-- 《废弃代码备忘录》
-- 《怪云》
 - 《皮特回忆之一 · 域》
+- 《怪云》
+- 《废弃代码备忘录》
 
 > 风会吹散灰尘，但有人记得风来过的形状。
 
 ---
 
-## 📫 联系我
+## 07 · Contact
 
-- GitHub：`Keleoz-Cyber`
-- Blog：`keleoz.cn`，暂时停运中
+- GitHub: [`Keleoz-Cyber`](https://github.com/Keleoz-Cyber)
+- Blog: `keleoz.cn` · temporarily offline sometimes while the server is used for projects
 
 ---
 
