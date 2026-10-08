@@ -1,56 +1,30 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#07111F"/>
-      <stop offset="0.5" stop-color="#0B2A4A"/>
-      <stop offset="1" stop-color="#123C5A"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="150" y1="0" x2="1050" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#7DD3FC" stop-opacity="0.9"/>
-      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
-
-  <g opacity="0.14" stroke="#7DD3FC" stroke-width="1.2">
-    <path d="M80 285 C260 215 390 320 570 250 C760 178 930 250 1120 175"/>
-    <path d="M80 310 C270 252 420 338 605 284 C790 230 950 285 1120 235"/>
-    <path d="M170 95 L245 55 L320 95 L395 55 L470 95"/>
-    <path d="M735 110 L805 70 L875 110 L945 70 L1015 110"/>
-  </g>
-
-  <g opacity="0.2" stroke="#BAE6FD" stroke-width="1">
-    <rect x="145" y="115" width="120" height="82" rx="8"/>
-    <rect x="935" y="150" width="120" height="82" rx="8"/>
-    <path d="M265 156 H400"/>
-    <path d="M800 190 H935"/>
-    <circle cx="430" cy="156" r="30"/>
-    <circle cx="770" cy="190" r="30"/>
-    <path d="M460 156 H600"/>
-    <path d="M600 156 V190 H740"/>
-  </g>
-
-  <path d="M120 88 H1080" stroke="url(#accent)" stroke-width="2"/>
-  <path d="M120 272 H1080" stroke="url(#accent)" stroke-width="2"/>
-
-  <text x="600" y="145" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="62" font-weight="800" fill="#FFFFFF" filter="url(#glow)">
-    Keleoz Cyber
-  </text>
-
-  <text x="600" y="197" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="23" font-weight="650" fill="#D8F3FF">
-    AI · GeoAI · 3D Spatial Computing · Embedded Vision
-  </text>
-
-  <text x="600" y="238" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="17" fill="#A5D8F3">
-    building complete systems from data to delivery
-  </text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">Keleoz Cyber — build ideas into systems</title><desc id="desc">A deep navy developer banner with luminous blue system nodes and elegant typography.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081321"/><stop offset=".52" stop-color="#10243B"/><stop offset="1" stop-color="#091629"/></linearGradient>
+<radialGradient id="aura"><stop stop-color="#3574B9" stop-opacity=".45"/><stop offset="1" stop-color="#3574B9" stop-opacity="0"/></radialGradient>
+<linearGradient id="line" x1="0" x2="1"><stop stop-color="#68D8F6"/><stop offset="1" stop-color="#858EFF"/></linearGradient>
+<pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" stroke="#AAC3EF" stroke-opacity=".075" fill="none"/></pattern>
+</defs>
+<rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+<rect width="1280" height="360" rx="24" fill="url(#grid)"/>
+<circle cx="1070" cy="160" r="320" fill="url(#aura)"/>
+<path d="M68 76h37" stroke="#78DDF6" stroke-width="3" stroke-linecap="round"/><text x="120" y="82" font-size="18" letter-spacing="3.2" font-weight="700" fill="#99B9D6" font-family="Segoe UI,Arial,sans-serif">DEVELOPER  /  BUILDER  /  EXPLORER</text>
+<text x="68" y="187" font-size="87" letter-spacing="-2.5" font-weight="800" fill="#F1F7FF" font-family="Segoe UI,Arial,sans-serif">Keleoz<tspan fill="#79DDF5">.</tspan>Cyber</text>
+<text x="72" y="241" font-size="27" font-weight="500" fill="#D8E6FA" font-family="Segoe UI,Arial,sans-serif">From ideas to working systems.</text>
+<text x="73" y="301" font-size="17" letter-spacing="1.15" fill="#95ADC7" font-family="Segoe UI,Arial,sans-serif">AI ENGINEERING     /     FULL-STACK     /     SPATIAL COMPUTING</text>
+<g fill="none" stroke-linecap="round">
+<circle cx="1053" cy="179" r="143" stroke="#75C5E8" stroke-opacity=".16" stroke-width="1.4"/>
+<circle cx="1053" cy="179" r="105" stroke="#75C5E8" stroke-opacity=".24" stroke-width="1.4"/>
+<circle cx="1053" cy="179" r="64" stroke="#75C5E8" stroke-opacity=".36" stroke-width="1.6"/>
+<path d="M842 200 916 136 1053 179 1154 96M917 258l136-79 110 74M916 136l28-70m109 113 13-117" stroke="url(#line)" stroke-width="2" stroke-opacity=".60"/>
+<path d="M914 136 1053 109l100-13M916 258l117 7 130-12" stroke="#8E9CFB" stroke-opacity=".26" stroke-width="1.6" stroke-dasharray="5 10"/>
+</g>
+<g>
+<circle cx="916" cy="136" r="7" fill="#75DFF7"/><circle cx="1154" cy="96" r="6" fill="#979CFF"/><circle cx="1163" cy="253" r="7" fill="#71D8ED"/>
+<circle cx="917" cy="258" r="6" fill="#7398E7"/><circle cx="842" cy="200" r="4" fill="#77CFEC"/>
+<rect x="1011" y="137" width="84" height="84" rx="23" fill="#142D49" stroke="#8FDBF6" stroke-opacity=".65" stroke-width="2"/>
+<path d="m1038 179 13-13m-13 13 13 13m27-26-13 26" fill="none" stroke="#A9E8F9" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M0 338H1280" stroke="#63C9EF" stroke-opacity=".32" stroke-width="2"/>
 </svg>

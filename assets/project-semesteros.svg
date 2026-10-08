@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="460" viewBox="0 0 1000 460" role="img" aria-label="SemesterOS">
+ <defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B182A"/><stop offset="1" stop-color="#14263D"/></linearGradient><radialGradient id="halo"><stop stop-color="#85E9D1" stop-opacity=".26"/><stop offset="1" stop-color="#85E9D1" stop-opacity="0"/></radialGradient></defs>
+ <rect width="1000" height="460" rx="30" fill="url(#b)"/>
+ <circle cx="796" cy="198" r="288" fill="url(#halo)"/>
+ <g><path d="M620 35V425" stroke="#A9C4ED" stroke-opacity=".065"/><path d="M671 35V425" stroke="#A9C4ED" stroke-opacity=".065"/><path d="M722 35V425" stroke="#A9C4ED" stroke-opacity=".065"/><path d="M773 35V425" stroke="#A9C4ED" stroke-opacity=".065"/><path d="M824 35V425" stroke="#A9C4ED" stroke-opacity=".065"/><path d="M875 35V425" stroke="#A9C4ED" stroke-opacity=".065"/><path d="M926 35V425" stroke="#A9C4ED" stroke-opacity=".065"/><path d="M977 35V425" stroke="#A9C4ED" stroke-opacity=".065"/></g>
+ <rect x="48" y="51" width="12" height="12" rx="6" fill="#85E9D1"/>
+ <text x="72" y="64" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="2.6" fill="#B6CCE7">AI PRODUCT  /  ANDROID</text>
+ <text x="48" y="211" font-family="Segoe UI,Arial,sans-serif" font-size="55" font-weight="750" letter-spacing="-1.4" fill="#F3F8FF">SemesterOS</text>
+ <text x="50" y="257" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="400" fill="#BDD1EA">Make room for what matters.</text>
+ <path d="M48 381H533" stroke="#7F9FBD" stroke-opacity=".38"/>
+ <text x="49" y="416" font-family="Consolas,monospace" font-size="21" fill="#85E9D1">02 / KELEOZ LAB</text>
+ <g>
+ <rect x="653" y="70" width="284" height="332" rx="28" fill="#0C2239" stroke="#83DDC6" stroke-opacity=".58" stroke-width="2.5"/>
+ <rect x="673" y="91" width="245" height="48" rx="15" fill="#183D4A"/>
+ <text x="691" y="121" fill="#E5FFF8" font-size="20" font-family="Segoe UI,Arial,sans-serif" font-weight="700">October   2026</text>
+ <path d="M680 164h228M680 220h228M680 276h228M680 332h228M737 151v207M794 151v207M851 151v207" stroke="#99CFC9" stroke-opacity=".30" stroke-width="2"/>
+ <rect x="682" y="171" width="50" height="40" rx="9" fill="#55C4AF" opacity=".65"/>
+ <rect x="799" y="229" width="48" height="41" rx="9" fill="#7B9CFB" opacity=".65"/>
+ <rect x="855" y="287" width="52" height="40" rx="9" fill="#EABB79" opacity=".58"/>
+ <path d="M713 190l11 8 17-24" stroke="#DDFBF1" stroke-width="3" fill="none" stroke-linecap="round"/>
+ <rect x="619" y="299" width="123" height="55" rx="18" fill="#24565B" stroke="#8FEDD4" stroke-width="2"/>
+ <circle cx="647" cy="326" r="9" fill="#85E9D1"/><path d="M667 326h52" stroke="#D5FDF1" stroke-width="5" stroke-linecap="round"/>
+ </g>
+ </svg>

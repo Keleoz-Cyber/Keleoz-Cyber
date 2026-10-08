@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="228" viewBox="0 0 1200 228" role="img" aria-label="Understand, Model, Validate, Ship">
+<defs><linearGradient id="fb" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1727"/><stop offset="1" stop-color="#16283E"/></linearGradient></defs>
+<rect width="1200" height="228" rx="24" fill="url(#fb)"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<rect x="35" y="39" width="234" height="151" rx="17" fill="#13283C" stroke="#7EDCF6" stroke-opacity=".48" stroke-width="2"/>
+<text x="57" y="77" font-size="18" fill="#7EDCF6" font-family="Consolas,monospace">01 /</text>
+<text x="57" y="122" font-size="30" fill="#EFF7FF" font-weight="750">UNDERSTAND</text>
+<text x="57" y="157" font-size="18" fill="#A6C0D8">Problem &amp; data</text>
+<path d="M281 115h42m-13-11 13 11-13 11" stroke="#7899B3" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/><rect x="333" y="39" width="234" height="151" rx="17" fill="#13283C" stroke="#9FBAFF" stroke-opacity=".48" stroke-width="2"/>
+<text x="355" y="77" font-size="18" fill="#9FBAFF" font-family="Consolas,monospace">02 /</text>
+<text x="355" y="122" font-size="30" fill="#EFF7FF" font-weight="750">BUILD</text>
+<text x="355" y="157" font-size="18" fill="#A6C0D8">Model &amp; product</text>
+<path d="M579 115h42m-13-11 13 11-13 11" stroke="#7899B3" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/><rect x="631" y="39" width="234" height="151" rx="17" fill="#13283C" stroke="#83E5CA" stroke-opacity=".48" stroke-width="2"/>
+<text x="653" y="77" font-size="18" fill="#83E5CA" font-family="Consolas,monospace">03 /</text>
+<text x="653" y="122" font-size="30" fill="#EFF7FF" font-weight="750">VALIDATE</text>
+<text x="653" y="157" font-size="18" fill="#A6C0D8">Evidence &amp; tests</text>
+<path d="M877 115h42m-13-11 13 11-13 11" stroke="#7899B3" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/><rect x="929" y="39" width="234" height="151" rx="17" fill="#13283C" stroke="#E7C795" stroke-opacity=".48" stroke-width="2"/>
+<text x="951" y="77" font-size="18" fill="#E7C795" font-family="Consolas,monospace">04 /</text>
+<text x="951" y="122" font-size="30" fill="#EFF7FF" font-weight="750">DELIVER</text>
+<text x="951" y="157" font-size="18" fill="#A6C0D8">Package &amp; iterate</text>
+
+</g></svg>
